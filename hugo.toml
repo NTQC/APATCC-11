@@ -1,6 +1,17 @@
 baseURL = 'https://ntqc.github.io/APATCC-11'
 languageCode = 'en-us'
 title = 'APATCC 11'
-theme = 'ananke'
+theme = 'universal'
 
-SectionPageMenu = 'main'
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+
+[[menu.main]]
+name = "Program"
+url = "/program/"
+
+[[menu.main]]
+name = "Venue"
+url = "/venue/"
