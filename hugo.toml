@@ -7,11 +7,32 @@ theme = 'universal'
 [[menu.main]]
 name = "Home"
 url = "/"
+#weight = 1
 
 [[menu.main]]
 name = "Program"
 url = "/program/"
+#weight = 2
+
+[[menu.main]]
+name = "Registration"
+url = "/registration/"
+#weight = 3
 
 [[menu.main]]
 name = "Venue"
 url = "/venue/"
+#weight = 4
+
+[[menu.main]]
+name = "Comittee"
+url = "/comittee/"
+#weight = 4
+
+# [params]
+# copyright = "comittee"
+
+[params.about]
+enable = true
+title = "About"
+subtitle = "subt"
