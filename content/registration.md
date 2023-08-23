@@ -2,14 +2,19 @@
 title: "Registration"
 ---
 
-At the moment, registration is not open.
+# Instructions for Presenters
 
 - Oral Presentation:
-    - XX minutes
+    - duration: XX minutes (YY minutes for discussion)
 - Poster Presentation:
     - size: HH cm × WW cm
+    - duration: XX minutes
 
-# Registration Fees
+# Registration
+
+At the moment, registration is not open.
+
+## Registration Fees
 
 |   | fee |
 |---|----:|
