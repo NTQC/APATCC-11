@@ -3,5 +3,5 @@ title: "APATCC 11"
 draft: false
 ---
 
-Welcome to APATCC 11 page.
+Welcome to the APATCC 11 page.
 This page is under construction.
