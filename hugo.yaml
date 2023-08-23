@@ -14,12 +14,6 @@
       menu: {
         main: [
           {
-            identifier: "home",
-            name: "Home",
-            url: "/index.html",
-            weight: 1,
-          },
-          {
             identifier: "registration",
             name: "Registration",
             url: "/registration/",
