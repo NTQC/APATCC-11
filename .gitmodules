@@ -4,6 +4,9 @@
 [submodule "themes/universal"]
 	path = themes/universal
 	url = https://github.com/devcows/hugo-universal-theme.git
+[submodule "themes/w3css"]
+	path = themes/w3css
+	url = https://github.com/it-gro/hugo-theme-w3css-basic.git
 [submodule "themes/xterm"]
 	path = themes/xterm
 	url = https://github.com/manid2/hugo-xterm.git
