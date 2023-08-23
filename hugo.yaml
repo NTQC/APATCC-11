@@ -1,0 +1,40 @@
+{
+  baseURL: "https://ntqc.github.io/APATCC-11",
+  languageCode: "en-us",
+  title: "APATCC 11",
+  theme: "xterm",
+  params: {
+    showMenuItems: true,
+  },
+  languages: {
+    en: {
+      params: {
+        copyright: "(C) APATCC 11 Comittee",
+      },
+      menu: {
+        main: [
+          {
+            identifier: "program",
+            name: "Program",
+            url: "/program/",
+          },
+          {
+            identifier: "comittee",
+            name: "Comittee",
+            url: "/comittee/",
+          },
+          {
+            identifier: "venue",
+            name: "Venue",
+            url: "/venue/",
+          },
+        ]
+      },
+    },
+  },
+  markup: {
+    tableOfContents: {
+      ordered: false,
+    },
+  },
+}
