@@ -32,15 +32,21 @@
             weight: 3,
           },
           {
-            identifier: "organizers",
-            name: "Organizers",
-            url: "/organizers/",
-            weight: 4,
-          },
-          {
             identifier: "venue",
             name: "Venue",
             url: "/venue/",
+            weight: 4,
+          },
+          {
+            identifier: "organizers",
+            name: "Organizers",
+            url: "/organizers/",
+            weight: 5,
+          },
+          {
+            identifier: "apatcc",
+            name: "About APATCC",
+            url: "/apatcc/",
             weight: 5,
           },
         ]
