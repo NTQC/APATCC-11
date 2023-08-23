@@ -2,4 +2,4 @@
 title: "Committee"
 ---
 
-- Takahito Nakajima (RIKEN R-CCS, Japan)
+- Takahito Nakajima (RIKEN R-CCS, Kobe, Japan)
