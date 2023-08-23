@@ -21,6 +21,8 @@ draft: false
 
 Please follow the instructions written in the template (under construction).
 
+The submission deadline is YYYY-MM-DD.
+
 # Registration
 
 At the moment, registration is not open.
